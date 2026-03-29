@@ -79,8 +79,8 @@ Softmax Output (10 classes)
 ## Installation & Setup
 
 ### 1. Clone the repository
-```bash
-git clone https://github.com/YOURUSERNAME/speech-project.git
+```bashgit
+clone https://github.com/anthea14/Simple-Speech-Recognition-from-Scratch.git
 cd speech-project
 ```
 
